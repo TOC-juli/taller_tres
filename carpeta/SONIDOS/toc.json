@@ -1,0 +1,8 @@
+[
+  {"url":"campana/02_campana.wav","type":"audio","bank":"campana","n":0},
+  {"url":"canto/05_canto.wav","type":"audio","bank":"canto","n":0},
+  {"url":"fuego/04_fuego.wav","type":"audio","bank":"fuego","n":0},
+  {"url":"gotas/06_gotas.wav","type":"audio","bank":"gotas","n":0},
+  {"url":"pajaros/01_pajaros.wav","type":"audio","bank":"pajaros","n":0},
+  {"url":"remo/03_remo.wav","type":"audio","bank":"remo","n":0}
+]
